@@ -16,4 +16,6 @@ The files are in the [yaml format](https://en.wikipedia.org/wiki/YAML). This is 
 
 [Online-Communities](Online-Communities.yml): Chat and dating websites for queer people.
 
+[Wikis](Wikis.yml): Wikis, FAQs and topical websites.
+
 [Helplines](Helplines.yml): Helplines for emergencies.
