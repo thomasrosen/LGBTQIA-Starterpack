@@ -13,3 +13,10 @@ https://gender-glossar.de/
 ## Gendern / Language
 
 https://www.pinkcross.ch/de/ueber-uns/sprachleitfaden
+
+Geschlechtsneutrale Sprache | Gender-neutral language
+https://nonbinarytransgermany.tumblr.com/language
+
+Das Genderwörterbuch
+Nachschlagewerk zum Gendern.
+https://geschicktgendern.de/
