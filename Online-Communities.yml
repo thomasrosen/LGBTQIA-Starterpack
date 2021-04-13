@@ -20,3 +20,10 @@
   audience:
     primary_for: [youth, men]
     languages: de
+
+- name: Rainbow Family Portal
+  description: Online-Community for Rainbowfamilies in Switzerland
+  url: https://www.regenbogenfamilien.ch/community/
+
+- name: Online help in German for Switzerland
+  url: https://du-bist-du.ch/
