@@ -2,7 +2,7 @@
   description: "Du bist nicht allein"
   url: https://www.dbna.com/
   audience:
-    primary_for: youth, men
+    primary_for: [youth, men]
     languages: de
     min_age: 14
     max_age: 29
@@ -10,7 +10,7 @@
 - name: Trevor Space
   url: https://www.trevorspace.org/
   audience:
-    primary_for: youth
+    primary_for: [youth]
     languages: en
     min_age: 13
     max_age: 24
@@ -18,5 +18,5 @@
 - name: junx.app
   url: https://junx.app/
   audience:
-    primary_for: youth, men
+    primary_for: [youth, men]
     languages: de
