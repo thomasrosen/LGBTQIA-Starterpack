@@ -1,0 +1,9 @@
+- name: Queer.de
+  description: Queeres Nachrichtenportal aus Köln.
+  url: https://www.queer.de/
+  languages: [de]
+
+- name: MANNSCHAFT MAGAZIN
+  description: "Das führende Lifestyle-Magazin der LGBTIQ-Community im gesamten deutschsprachigen Raum."
+  url: https://mannschaft.com/
+  languages: [de]
