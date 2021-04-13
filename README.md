@@ -8,6 +8,8 @@ Feel free to contibute to this repository by forking and sending a pull request.
 
 ## The Files
 
+The files are in the yaml format. This is readable by humans, but also parsable by computers.
+
 [Glossaries](Glossaries.yml): What do all the queer words mean? Here's a list of websites that provide definitions.
 
 [Maps](Maps.yml): Maps of queer places and lists of queer organisations.
