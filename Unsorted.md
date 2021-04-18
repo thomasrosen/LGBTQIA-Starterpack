@@ -20,3 +20,8 @@ https://nonbinarytransgermany.tumblr.com/language
 Das Genderwörterbuch
 Nachschlagewerk zum Gendern.
 https://geschicktgendern.de/
+
+## Calendars
+
+DE:
+https://queer-lexikon.net/queerer-kalender/
